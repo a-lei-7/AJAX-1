@@ -1,0 +1,1 @@
+console.log('我其实是2.js')
